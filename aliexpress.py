@@ -9,12 +9,14 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import TimeoutException
 import re
+import json
+import bs4
 
 
 alibrowser = webdriver.Firefox()
 #url  = 'https://www.aliexpress.com/item/33011967786.html?spm=a2g0o.detail.1000060.3.7a8f6524cQnmMd&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.99734.0&scm_id=1007.13339.99734.0&scm-url=1007.13339.99734.0&pvid=9394447d-07ff-4d13-bd55-f5e7d67cd62b'
-#url = "https://www.aliexpress.com/item/33015114480.html?spm=2114.search0103.3.10.13351a976a9BcO&ws_ab_test=searchweb0_0%2Csearchweb201602_9_10065_10068_319_10059_10884_317_10887_10696_321_322_10084_453_10083_454_10103_10618_10307_537_536%2Csearchweb201603_55%2CppcSwitch_0&algo_expid=aa0af252-781c-4e25-967d-a9dd8f06d9ba-1&algo_pvid=aa0af252-781c-4e25-967d-a9dd8f06d9ba"
-url = "https://www.aliexpress.com/item/32973661163.html?spm=a2g01.12617084.fdpcl001.5.2597b77Hb77Hlj&gps-id=5547572&scm=1007.19201.130907.0&scm_id=1007.19201.130907.0&scm-url=1007.19201.130907.0&pvid=34f94418-cefc-4fee-9609-84a8baff6737"
+url = "https://www.aliexpress.com/item/33015114480.html?spm=2114.search0103.3.10.13351a976a9BcO&ws_ab_test=searchweb0_0%2Csearchweb201602_9_10065_10068_319_10059_10884_317_10887_10696_321_322_10084_453_10083_454_10103_10618_10307_537_536%2Csearchweb201603_55%2CppcSwitch_0&algo_expid=aa0af252-781c-4e25-967d-a9dd8f06d9ba-1&algo_pvid=aa0af252-781c-4e25-967d-a9dd8f06d9ba"
+#url = "https://www.aliexpress.com/item/32973661163.html?spm=a2g01.12617084.fdpcl001.5.2597b77Hb77Hlj&gps-id=5547572&scm=1007.19201.130907.0&scm_id=1007.19201.130907.0&scm-url=1007.19201.130907.0&pvid=34f94418-cefc-4fee-9609-84a8baff6737"
 
 
 
@@ -65,6 +67,9 @@ def disable_modal_ad(browser): #Add testing for non presence
         log("Disabled modal ad")
     else: log("Could not remove modal")
 
+
+
+
 def get_product_disc(browser):
     by = By.CSS_SELECTOR
     selector = ".product-title"
@@ -73,6 +78,7 @@ def get_product_disc(browser):
         log(f"Got product discription: {product_disc.text}")
     else:log("Could not get product discription")
 
+
 def get_store_name(browser):
     by = By.CSS_SELECTOR
     selector = '.store-info > div:nth-child(1) > div:nth-child(1) > a:nth-child(1)'
@@ -80,6 +86,7 @@ def get_store_name(browser):
     if store_name:
         log(f"Got store name: {store_name.text}")
     else:log("Could not get store name")
+
 
 def get_seller_rating(browser):
     by = By.CSS_SELECTOR
@@ -90,6 +97,7 @@ def get_seller_rating(browser):
         log(f"Got seller rating: {seller_rating}")
     else:log("Could not get seller rating")
 
+
 def get_seller_followers(browser):
     by = By.CSS_SELECTOR
     selector = ".num-followers > i:nth-child(1)"
@@ -97,6 +105,7 @@ def get_seller_followers(browser):
     if seller_followers:
         log(f"Got seller followers: {seller_followers.text}")
     else:log("Could not get seller followers")
+
 
 def get_product_rating(browser):
     by = By.CSS_SELECTOR
@@ -106,6 +115,7 @@ def get_product_rating(browser):
         log(f"Got product rating: {product_rating.text}")
     else:log("Could not get product rating")
 
+
 def get_number_reviews(browser):
     by = By.CSS_SELECTOR
     selector = ".product-reviewer-reviews"
@@ -113,6 +123,7 @@ def get_number_reviews(browser):
     if number_reviews:
         log(f"Got number of reviews: {number_reviews.text}")
     else:log("Could not get number of reviews")
+
 
 def get_number_orders(browser):
     by = By.CSS_SELECTOR
@@ -122,6 +133,7 @@ def get_number_orders(browser):
         log(f"Got number of orders: {number_orders.text}")
     else:log("Could not get number of orders")
 
+
 def get_shipping_cost(browser):
     by = By.CSS_SELECTOR
     selector = ".product-shipping-price"
@@ -130,6 +142,7 @@ def get_shipping_cost(browser):
         log(f"Got shipping cost: {shipping_cost.text.strip('Shipping: ')}")
     else:log("Could not get shipping cost")
 
+
 def get_shipping_time(browser):
     by = By.CSS_SELECTOR
     selector = ".product-shipping-delivery > span:nth-child(1)"
@@ -137,6 +150,7 @@ def get_shipping_time(browser):
     if shipping_time:
         log(f"Got shipping time: {shipping_time.text} days")
     else:log("Could not get shipping time")
+
 
 def get_specs(browser):
     specs_tab = get_element(browser,
@@ -157,6 +171,7 @@ def get_specs(browser):
         log(f"Got specifications as follow:\n{DATA}")
     else:log("Could not get product specifications")
 
+
 def get_recomm_urls(browser):
     recomm_urls = get_elements(browser,
     by = By.CSS_SELECTOR,
@@ -166,10 +181,73 @@ def get_recomm_urls(browser):
         log(f"Got recommended urls:\n{DATA}")
     else:log("Could not get recommended urls")
 
+
+def get_all_images(browser):
+    dict_data = _get_json(browser)
+    image_urls = dict_data["imageModule"]["imagePathList"]
+    if image_urls:
+        log(f"Got all product image urls:\n{image_urls}")
+    else: log("Could not get product image urls.")
+
+
+def get_price_variations(browser):
+    dict_data = _get_json(browser)
+    if dict_data:
+        log(f"Got price variation combos:\n{_list_variations(dict_data)}")
+    else:log("Could not get price combos.")
+
+
+
+
+
+
+
+
+
+
+
+def _get_json(browser):
+    source = browser.page_source
+    soup = bs4.BeautifulSoup(source, "html.parser")
+    json_data = re.search(r'data:.+"site":"glo"}}',  soup.text).group(0)[5:]
+    dict_data = json.loads(json_data)
+    return(dict_data)
+
+def _prop_id_name(dict_data, id):
+    for prop in dict_data["skuModule"]["productSKUPropertyList"]:
+        for value in prop["skuPropertyValues"]:
+            if value["propertyValueIdLong"] == id :
+                return value["propertyValueDisplayName"]
+
+def _list_variations(dict_data):
+    price_variation_dict = {}
+    price_list = dict_data["skuModule"]["skuPriceList"]
+    for variation in price_list:
+        props = [_prop_id_name(dict_data, int(id)) for id in variation["skuPropIds"].split(",")]
+        currency = variation["skuVal"]["skuAmount"]["currency"]
+        price = variation["skuVal"]["actSkuCalPrice"]
+        availQty = variation["skuVal"]["availQuantity"]
+        item = {",".join(props):{"price":price, "currency":currency, "availQty":availQty}}
+        price_variation_dict.update(item)
+    return (price_variation_dict, len(price_variation_dict))
+
+
+
+
+
+
 #def get_all_product_images(browser):
+#    source = browser.get_source()
+#    print(source)
+
+
+
+
+def scraper(browser, logging = True, ):
 
 
 ###############TESTING################
+"""
 get_product_page(alibrowser, url)
 get_product_disc(alibrowser)
 get_store_name(alibrowser)
@@ -182,3 +260,6 @@ get_shipping_cost(alibrowser)
 get_shipping_time(alibrowser)
 get_specs(alibrowser)
 get_recomm_urls(alibrowser)
+get_all_images(alibrowser)
+get_price_variations(alibrowser)
+"""

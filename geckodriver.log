@@ -3409,3 +3409,486 @@ JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront
 JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
 JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
 JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+1563384249559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eaTMDT6L3TgN"
+1563384252827	Marionette	INFO	Listening on port 36831
+1563384252874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 416: TypeError: quads is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 25252, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1563385358326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IsGUXoJlP5UR"
+1563385363231	Marionette	INFO	Listening on port 44895
+1563385363246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+1563385398165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.y1Fnnz8nkQgI"
+1563385401611	Marionette	INFO	Listening on port 33585
+1563385401679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+1563385428136	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.M5vmPXmd9nDT"
+1563385431596	Marionette	INFO	Listening on port 44457
+1563385431655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+1563385457096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2iud8Jd0YLea"
+1563385463501	Marionette	INFO	Listening on port 41787
+1563385463544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.google.com
+1563386194326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jkJjIn5gI3Uf"
+1563386209261	Marionette	INFO	Listening on port 45649
+1563386209473	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+1563405562750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sZMvWzj73brZ"
+1563405571951	Marionette	INFO	Listening on port 35899
+1563405571991	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+WebGL(0x7f6b86dc9800)::ForceLoseContext
+WebGL(0x7f6b846d1000)::ForceLoseContext
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+WebGL(0x7f6b846f1800)::ForceLoseContext
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+WebGL(0x7f6b7ff29800)::ForceLoseContext
+WebGL(0x7f6b6e10c800)::ForceLoseContext
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+WebGL(0x7f6b72510800)::ForceLoseContext
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+JavaScript error: https://pythonspot.com/js/index.js, line 1: ReferenceError: $ is not defined
+1563458666032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.j4S9ZTVsRsIi"
+1563458675055	Marionette	INFO	Listening on port 36329
+1563458675154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+1563458718095	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KdnfVJwgOxOQ"
+1563458725336	Marionette	INFO	Listening on port 43175
+1563458725483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+1563458767678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2s4Vxp5tRUsP"
+1563458770992	Marionette	INFO	Listening on port 43681
+1563458771099	Marionette	WARN	TLS certificate errors will be ignored for this session
+1563458829003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BLk4jpP1n5HN"
+1563458832327	Marionette	INFO	Listening on port 37639
+1563458832413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+1563458882252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oiIqpm1IelrY"
+1563458886181	Marionette	INFO	Listening on port 33143
+1563458886218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+1563459325088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tZi7n1NSuuDP"
+1563459330001	Marionette	INFO	Listening on port 33073
+1563459330109	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+1563459414343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DA08symhNpNc"
+1563459424279	Marionette	INFO	Listening on port 35157
+1563459424373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+1563459500848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IHconP3iKiUQ"
+1563459516315	Marionette	INFO	Listening on port 41841
+1563459516388	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+ExceptionHandler::GenerateDump cloned child 9555
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+[Parent 7998, Gecko_IOThread] WARNING: waitpid failed pid:8052 errno:10: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/base/process_util_posix.cc, line 247
+1563459557231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.z7pdPNXjvWT9"
+1563459562321	Marionette	INFO	Listening on port 45415
+1563459562346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563459605688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3XW2UIY2eJlq"
+1563459609312	Marionette	INFO	Listening on port 32877
+1563459609405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+1563460154281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XwnOq0fWVg5Q"
+1563460158088	Marionette	INFO	Listening on port 40407
+1563460158161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+WebGL(0x7f4109871800)::ForceLoseContext
+WebGL(0x7f4113c3b800)::ForceLoseContext
+1563460345271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TrKuKGCFb9sS"
+1563460348799	Marionette	INFO	Listening on port 34767
+1563460348883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+1563460383212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZxtF0bRgN8Zt"
+1563460389943	Marionette	INFO	Listening on port 42565
+1563460390029	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+1563460423453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iSfyWpQL2jp0"
+1563460427065	Marionette	INFO	Listening on port 44625
+1563460427168	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+WebGL(0x7f9da3ba1000)::ForceLoseContext
+WebGL(0x7f9d9d71b000)::ForceLoseContext
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+1563460589236	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1glrKdze1Fs2"
+1563460594729	Marionette	INFO	Listening on port 45279
+1563460594764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563460658118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aAYqXOvq3uZt"
+1563460662337	Marionette	INFO	Listening on port 39099
+1563460662438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+1563460923576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.a69afsyDu6os"
+1563460926946	Marionette	INFO	Listening on port 39365
+1563460927001	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+1563460965127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZO1u8G7lgK0e"
+1563460969436	Marionette	INFO	Listening on port 43101
+1563460969467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 11969, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 11969, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+console.log: Accessibility service init or shutdown observer does not exist.
+1563461300372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.alIRGsJvjBgR"
+1563461304006	Marionette	INFO	Listening on port 42507
+1563461304088	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+1563461418103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dkNojUo2MrFU"
+1563461421812	Marionette	INFO	Listening on port 40837
+1563461421835	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+1563461468710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.J4ndOIuxIwg6"
+1563461472219	Marionette	INFO	Listening on port 44707
+1563461472324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+WebGL(0x7f55400c7800)::ForceLoseContext
+WebGL(0x7f553c41e000)::ForceLoseContext
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+1563461524097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PvpcUof4mZst"
+1563461527834	Marionette	INFO	Listening on port 37957
+1563461527908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 12844, Gecko_IOThread] WARNING: pipe error (91): Connection reset by peer: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+1563461835639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bSgGg9CesMbu"
+1563461839693	Marionette	INFO	Listening on port 42911
+1563461839764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+WebGL(0x7f36e1866800)::ForceLoseContext
+WebGL(0x7f36ddad0000)::ForceLoseContext
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+WebGL(0x7f36dac0b800)::ForceLoseContext
+WebGL(0x7f36c9a64000)::ForceLoseContext
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563462009873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.k7cU8XhlB57M"
+1563462013350	Marionette	INFO	Listening on port 46277
+1563462013400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1563462143760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KHAQeFHgpFXb"
+1563462147254	Marionette	INFO	Listening on port 34659
+1563462147279	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+JavaScript warning: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.27, line 93: unreachable code after return statement
+JavaScript warning: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.27, line 93: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+1563462543224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LzNNltfBmkOK"
+1563462546750	Marionette	INFO	Listening on port 41407
+1563462546841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+1563462608603	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IZyyxPlz6IbT"
+1563462612070	Marionette	INFO	Listening on port 42425
+1563462612166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+1563462645127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.weVXStdzfPpp"
+1563462649957	Marionette	INFO	Listening on port 39023
+1563462650042	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+1563462777398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EBko6Lsd0XfM"
+1563462783423	Marionette	INFO	Listening on port 41163
+1563462783449	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+1563462866902	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6uc93rhmAMvJ"
+1563462872977	Marionette	INFO	Listening on port 44053
+1563462873020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+1563463080970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UcNYSZarBWRB"
+1563463090421	Marionette	INFO	Listening on port 45991
+1563463090498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+1563464579481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ig1O28GGdAmX"
+1563464583129	Marionette	INFO	Listening on port 32861
+1563464583197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+JavaScript error: chrome://browser/content/browser.js, line 7045: TypeError: browser.messageManager is undefined
+1563464620734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fo50umLtZ012"
+1563464624353	Marionette	INFO	Listening on port 39685
+1563464624446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+1563464712705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vvHrbynKbBMR"
+1563464716116	Marionette	INFO	Listening on port 36637
+1563464716228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+JavaScript error: https://regexr.com/deploy/regexr.js?v=bfebbd5bd, line 1: TypeError: r is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 16521, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: Accessibility service init or shutdown observer does not exist.
+1563465722108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.er68NllWm2l2"
+1563465725412	Marionette	INFO	Listening on port 40843
+1563465725424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+1563466281532	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lsqwirVgsOp6"
+1563466285320	Marionette	INFO	Listening on port 43049
+1563466285357	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+1563466367403	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UWFrDy8GD2KF"
+1563466372481	Marionette	INFO	Listening on port 35303
+1563466372523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+1563466542864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vgg2RP7oqrPS"
+1563466548710	Marionette	INFO	Listening on port 33173
+1563466548782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 4: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-header/20190626200603/buyer/glofront/ae-header.js, line 5: unreachable code after return statement
+JavaScript warning: https://i.alicdn.com/ae-feedback-ui/display/productEvaluation/??index.523c7bdb.js, line 3: unreachable code after return statement
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1000B,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 17593, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+ExceptionHandler::GenerateDump cloned child 18054
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+[Parent 17009, Gecko_IOThread] WARNING: pipe error (48): Connection reset by peer: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
