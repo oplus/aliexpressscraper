@@ -11,7 +11,8 @@ url = "https://www.aliexpress.com/item/33......"
 print(mainScraper(myBrowser, url, logging = True))
 ```
 
-this prints what mainScraper returns; which is a dictionary including all available data points from the product page structured as per `PRODUCT_DATA` dictionary in the mainScraper definition body:
+this prints what mainScraper returns; which is a dictionary including all available data points from the product page structured as per `PRODUCT_DATA` dictionary in the mainScraper definition body: (you can see corresponding functions for each data point)
+
 ```PRODUCT_DATA = {
     "product_description":get_product_disc(browser, logging),
     "store_name":get_store_name(browser, logging),
