@@ -6,7 +6,8 @@ Aliexpress product page scraping module. This module does not initiate a seleniu
 
 To scrape all product page data points use `mainScraper` function example:
 
-```from aliexpress import mainScraper
+```
+from aliexpress import mainScraper
 myBrowser = webdriver.Firefox()
 url = "https://www.aliexpress.com/item/33......"
 print(mainScraper(myBrowser, url, logging = True))
@@ -34,7 +35,8 @@ this prints what mainScraper returns; which is a dictionary including all availa
 
 If you want to scrape a single data point from the product page you need to first get the product page, then use the function for scraping your required data point.
 
-```from aliexpress import get_product_page, get_seller_followers
+```
+from aliexpress import get_product_page, get_seller_followers
 myBrowser = webdriver.Firefox()
 url = "https://www.aliexpress.com/item/33......"
 get_product_page(myBrowser, url, logging)
